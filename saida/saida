@@ -1,0 +1,1135 @@
+Evento: CHEGADA de fregues TIPO 2 aos 2'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 0
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 5'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 1
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 6'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 1
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 6'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 1
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 8'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 0
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 9'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 1
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 11'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 2
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 14'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 3
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 14'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 2
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 16'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 2
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 18'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 3
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 19'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 3
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 22'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 4
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 25'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 3
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 26'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 3
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 26'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 4
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 30'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 5
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 31'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 5
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 31'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 5
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 32'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 5
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 33'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 5
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 34'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 6
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 36'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 6
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 37'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 6
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 38'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 7
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 40'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 7
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 41'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 7
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 42'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 7
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 42'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 8
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 42'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 8
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 45'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 9
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 45'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 9
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 48'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 8
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 49'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 9
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 51'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 10
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 53'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 10
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 53'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 10
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 54'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 11
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 58'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 11
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 58'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 12
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 59'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 13
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 59'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 13
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 61'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 14
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 62'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 15
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 62'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 14
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 66'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 15
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 66'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 14
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 69'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 14
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 69'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 15
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 70'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 15
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 71'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 16
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 73'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 17
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 76'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 18
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 76'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 17
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 80'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 18
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 81'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 18
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 81'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 18
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 83'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 19
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 83'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 18
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 85'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 19
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 87'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 18
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 89'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 19
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 90'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 20
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 92'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 21
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 92'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 20
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 93'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 20
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 95'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 21
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 98'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 22
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 98'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 22
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 100'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 21
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 101'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 22
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 103'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 22
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 104'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 22
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 104'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 23
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 104'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 23
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 107'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 24
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 110'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 25
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 110'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 25
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 112'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 24
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 114'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 25
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 115'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 26
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 115'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 25
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 116'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 25
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 116'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 26
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 118'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 26
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 118'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 26
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 119'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 27
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 120'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 27
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 120'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 28
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 120'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 28
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 124'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 29
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 124'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 29
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 125'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 30
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 126'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 30
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 128'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 30
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 128'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 31
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 129'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 31
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 131'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 32
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 132'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 32
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 133'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 33
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 133'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 33
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 134'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 34
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 136'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 35
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 137'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 35
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 140'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 35
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 140'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 36
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 141'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 37
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 143'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 37
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 145'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 38
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 146'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 39
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 146'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 38
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 148'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 39
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 149'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 39
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 150'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 39
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 151'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 39
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 152'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 40
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 152'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 40
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 153'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 41
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 156'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 42
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 157'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 41
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 159'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 40
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 160'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 41
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 161'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 42
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 161'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 41
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 162'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 41
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 164'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 42
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 166'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 42
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 168'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 43
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 170'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 44
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 171'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 43
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 172'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 43
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 173'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 43
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 174'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 44
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 177'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 45
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 178'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 45
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 179'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 45
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 180'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 46
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 181'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 47
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 182'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 47
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 182'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 47
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 184'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 46
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 185'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 47
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 187'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 46
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 188'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 46
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 188'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 47
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 189'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 48
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 189'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 48
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 191'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 49
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 193'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 49
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 193'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 49
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 195'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 198'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 49
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 199'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 202'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 202'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 203'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 51
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 204'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 206'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 49
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 207'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 211'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 51
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 211'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 213'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 50
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 215'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 51
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 216'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 51
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 218'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 52
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 218'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 51
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 219'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 52
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 222'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 52
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 223'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 53
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 223'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 53
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 225'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 54
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 227'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 54
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 229'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 55
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 229'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 55
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 231'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 55
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 231'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 55
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 232'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 56
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 236'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 57
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 237'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 57
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 237'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 57
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 239'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 58
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 240'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 57
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 243'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 57
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 243'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 58
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 245'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 59
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 245'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 59
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 247'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 60
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 248'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 59
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 250'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 60
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 253'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 59
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 254'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 60
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 255'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 60
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 255'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 61
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 257'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 62
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 258'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 63
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 258'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 63
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 260'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 64
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 263'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 64
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 263'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 65
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 264'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 65
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 267'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 66
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 269'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 65
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 271'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 66
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 272'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 67
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 274'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 67
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 274'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 67
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 275'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 68
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 277'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 68
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 277'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 69
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 278'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 69
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 1 aos 279'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 69
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 281'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 70
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 281'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 70
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 283'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 69
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 284'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 70
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 287'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 70
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 287'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 70
+Fregues no servico: TIPO 1
+
+Evento: CHEGADA de fregues TIPO 2 aos 288'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 71
+Fregues no servico: TIPO 1
+
+Evento: SAIDA aos 290'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 70
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 291'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 71
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 292'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 72
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 293'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 71
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 295'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 72
+Fregues no servico: TIPO 2
+
+Evento: SAIDA aos 298'
+Fregueses tipo 1 na fila: 0
+Fregueses tipo 2 na fila: 71
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 299'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 71
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 2 aos 299'
+Fregueses tipo 1 na fila: 1
+Fregueses tipo 2 na fila: 72
+Fregues no servico: TIPO 2
+
+Evento: CHEGADA de fregues TIPO 1 aos 300'
+Fregueses tipo 1 na fila: 2
+Fregueses tipo 2 na fila: 72
+Fregues no servico: TIPO 2
+
